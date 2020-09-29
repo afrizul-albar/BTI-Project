@@ -26,8 +26,10 @@ h1, h2, h3, h4, h5,
 a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
+  color: #1e1e1c;
   transition: .3s all ease; }
   a:hover {
+    color: #b9181d;
     text-decoration: none; }
 
     
@@ -730,7 +732,7 @@ a {
     .block-13 .owl-nav .owl-prev:hover, .block-13 .owl-nav .owl-next:hover, .block-14 .owl-nav .owl-prev:hover, .block-14 .owl-nav .owl-next:hover, .block-15 .owl-nav .owl-prev:hover, .block-15 .owl-nav .owl-next:hover {
       -webkit-box-shadow: none !important;
       box-shadow: none !important;
-      background: #71bc42;
+      background: #e5ebe1;
       color: #fff; }
   .block-13 .owl-nav .owl-prev, .block-14 .owl-nav .owl-prev, .block-15 .owl-nav .owl-prev {
     left: -20px; }
@@ -755,7 +757,7 @@ a {
       -o-transition: .3s all ease;
       transition: .3s all ease; }
     .block-13 .owl-dots .owl-dot.active > span, .block-14 .owl-dots .owl-dot.active > span, .block-15 .owl-dots .owl-dot.active > span {
-      background: #71bc42; }
+      background: #ec1a21; }
 
 .play-button {
   position: relative; }
